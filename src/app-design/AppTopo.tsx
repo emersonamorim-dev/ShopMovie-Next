@@ -5,7 +5,7 @@ import Container from '@src/common/Container';
 
 function AppTopo() {
   return (
-    <topo className="fixed w-full h-app-header z-10 bg-background-main px-6 shadow-sm flex items-center">
+    <header className="fixed w-full h-app-header z-10 bg-background-main px-6 shadow-sm flex items-center">
       <Container maxWidth="xl" className="flex items-center">
         <NextLink href="/" className="font-bold text-2xl text-primary-main">
           {APP_TITLE}
@@ -13,7 +13,7 @@ function AppTopo() {
         <div className="flex-grow" />
         <CarrinhoInfo />
       </Container>
-    </topo>
+    </header>
   );
 }
 
