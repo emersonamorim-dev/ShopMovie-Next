@@ -1,0 +1,204 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Forrest Gump: O Contador de Histórias",
+      "preco": 48.30,
+      "descricao": "A trama atravessa várias décadas na vida do personagem central, Forrest Gump, um homem simples do Alabama que, em suas andanças pelo país, acaba encontrando personalidades históricas, influenciando a cultura popular e testemunhando alguns dos eventos mais notórios da história dos Estados Unidos no final do século XX.",
+      "categoria": { "titulo": "Forrest Gump: O Contador de Histórias", "value": "filmes" },
+      "imagem": "/imagem/produtos/forest.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "De Volta Para o Futuro",
+      "preco": 43.38,
+      "descricao": "O filme conta a história de Marty McFly (Michael J. Fox), um adolescente que inevitavelmente volta no tempo até 1955. Ele conhece seus futuros pais no colégio e acidentalmente faz sua futura mãe ficar romanticamente interessada por ele. Marty deve consertar o dano na história fazendo com que seus pais se apaixonem e, com a ajuda do Dr. Emmett Brown (Christopher Lloyd), encontrar um modo de voltar para 1985.",
+      "categoria": { "titulo": "De Volta Para o Futuro", "value": "filmes" },
+      "imagem": "/imagem/produtos/DeVoltaFuturo.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "O Mágico de Oz",
+      "preco": 38.99,
+      "descricao": "O filme que conta a história de uma garota órfã chamada Dorothy Gale que após entrar em um ciclone viaja para a Terra de Oz e tenta achar o caminho de volta para sua casa.",
+      "categoria": { "titulo": "O Mágico de Oz", "value": "filmes" },
+      "imagem": "/imagem/produtos/omagicoOZ.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Gênio Indomável",
+      "preco": 41.99,
+      "descricao": "Um jovem rebelde com passagens pela polícia trabalha como funcionário da limpeza numa universidade de Boston, mas acaba se revelando um gênio em matemática ao resolver um teorema proposto pelo professor Lambeau a seus alunos.",
+      "categoria": { "titulo": "Gênio Indomável", "value": "filmes" },
+      "imagem": "/imagem/produtos/genio.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "Billions",
+      "preco": 29.90,
+      "descricao": "Um procurador federal ambicioso inicia uma investigação implacável contra Bobby Axelrod, um bilionário que não joga para perder.",
+      "categoria": { "titulo": "Billions", "value": "series" },
+      "imagem": "/imagem/produtos/billions.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Breaking Bad",
+      "preco": 29.99,
+      "descricao": "É uma série de televisão americana criada e produzida por Vince Gilligan. Ela retrata a vida do químico Walter White, um homem brilhante frustrado em dar aulas para adolescentes do ensino médio enquanto lida com um filho sofrendo de paralisia cerebral, uma esposa grávida e dívidas intermináveis. White, então, é diagnosticado com um câncer no pulmão - o que o leva a sofrer um colapso emocional e abraçar uma vida de crimes para pagar suas dívidas hospitalares e dar uma boa vida aos seus filhos.",
+      "categoria": { "titulo": "Breaking Bad", "value": "series" },
+      "imagem": "/imagem/produtos/BreakingBad.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "The West Wing",
+      "preco": 29.99,
+      "descricao": "West Wing é uma série que mostra acontecimentos na Casa Branca, especificamente na ala Oeste, o centro nervoso do lugar, onde o presidente (Martin Sheen) e seus assessores diretos trabalham.",
+      "categoria": { "titulo": "The West Wing", "value": "series" },
+      "imagem": "/imagem/produtos/TheWestWing.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Game of Thrones",
+      "preco": 29.99,
+      "descricao": "Ao longo de oito temporadas e mais de sessenta episódios, Game of Thrones cobre o enredo dos primeiros cinco livros de Martin com certas modificações[5] e a adição de material não publicado com base na descrição do autor de eventos futuros em seu universo literário. É um das série mais caras da história da televisão, cujas filmagens envolveram até quatro unidades paralelas de filmagem e a produção de efeitos visuais exigiu a participação simultânea de até quatorze estúdios em diferentes países.",
+      "categoria": { "titulo": "Game of Thrones", "value": "series" },
+      "imagem": "/imagem/produtos/GameofThrones.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Dom Quixote, Miguel de Cervantes, 1605",
+      "preco": 64,
+      "descricao": "O livro surgiu em um período de grande inovação e diversidade por parte dos escritores ficcionistas espanhóis. Parodiou romances de cavalaria que gozaram de imensa popularidade no período e, na altura, já se encontravam em declínio.",
+      "categoria": { "titulo": "Dom Quixote, Miguel de Cervantes, 1605", "value": "livros" },
+      "imagem": "/imagem/produtos/DomQuixote.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "Guerra e Paz, Liev Tolstói, 1869",
+      "preco": 50.90,
+      "descricao": "O livro narra a história da Rússia à época de Napoleão Bonaparte (notadamente as guerras napoleônicas na Rússia). A riqueza e realismo de seus detalhes assim como suas numerosas descrições psicológicas fazem com que seja considerado um dos maiores livros da História da Literatura.",
+      "categoria": { "titulo": "Guerra e Paz, Liev Tolstói, 1869", "value": "livros" },
+      "imagem": "/imagem/produtos/GuerraPaz.jpg"
+    },
+    {
+      "id": 11,
+      "titulo": "O Pequeno Príncipe - Antoine de Saint-Exupéry",
+      "preco": 42.80,
+      "descricao": "Esse livro vale tanto pelas palavras quanto pelas ilustrações. Embora seja (oficialmente) um livro infantil, O Pequeno Príncipe analisa questões profundas sobre a vida humana. O príncipe da história vive em um pequeno planeta, onde cuida de um rosa. Quando decide visitar outros planetas, aprende o valor do amor e da criatividade.",
+      "categoria": { "titulo": "O Pequeno Príncipe - Antoine de Saint-Exupéry", "value": "livros" },
+      "imagem": "/imagem/produtos/PequenoPrincipe.jpg"
+    },
+    {
+      "id": 12,
+      "titulo": "1984 - George Orwell",
+      "preco": 85.99,
+      "descricao": "É um romance distópico da autoria do escritor britânico George Orwell e publicado em 1949. O romance é ambientado na Pista de Pouso Número 1 (anteriormente conhecida como Grã-Bretanha), uma província do superestado da Oceania, em um mundo de guerra perpétua, vigilância governamental onipresente e manipulação pública e histórica.",
+      "categoria": { "titulo": "1984 - George Orwell", "value": "livros" },
+      "imagem": "/imagem/produtos/1984.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Cândido, ou o Otimismo, Voltaire",
+      "preco": 59.90,
+      "descricao": "É um conto filosófico em tom de sátira publicado pela primeira vez em 1759 por Voltaire, filósofo do Iluminismo.",
+      "categoria": { "titulo": "Cândido, ou o Otimismo, Voltaire", "value": "livros" },
+      "imagem": "/imagem/produtos/CandidoOtimismo.jpg"
+    },
+    {
+      "id": 14,
+      "titulo": "Senhor dos Anéis - J. R. R. Tolkien",
+      "preco": 80.99,
+      "descricao": "O Senhor dos Anéis é um livro de alta fantasia, escrito pelo escritor britânico J. R. R. Tolkien. Escrita entre 1937 e 1949, com muitas partes criadas durante a Segunda Guerra Mundial, a saga é uma continuação de O Hobbit.",
+      "categoria": { "titulo": "Senhor dos Anéis - J. R. R. Tolkien", "value": "livros" },
+      "imagem": "/imagem/produtos/SenhorAneis.jpg"
+    },
+    {
+      "id": 15,
+      "titulo": "A República - Platão",
+      "preco": 56.99,
+      "descricao": "A República é um diálogo socrático escrito por Platão, filósofo grego, no século IV a.C. Todo o diálogo é narrado, em primeira pessoa, por Sócrates.",
+      "categoria": { "titulo": "A República - Platão", "value": "livros" },
+      "imagem": "/imagem/produtos/ARepublica.jpg"
+    },
+    {
+      "id": 16,
+      "titulo": "E o Vento Levou - Margaret Mitchell",
+      "preco": 49.95,
+      "descricao": "Disposta cronologicamente, a sua história, passada no Sul dos Estados Unidos, retrata a vida de Scarlett O'Hara, filha mimada de um rico dono de plantação algodoeira, que deve usar todos os meios à sua disposição para sobreviver durante a Guerra Civil Americana e, posteriormente, ao período da Reconstrução.",
+      "categoria": { "titulo": "E o Vento Levou - Margaret Mitchell", "value": "livros" },
+      "imagem": "/imagem/produtos/EOVentoLevou.jpg"
+    },
+    {
+      "id": 17,
+      "titulo": "U2 – 360°",
+      "preco": 39.99,
+      "descricao": "U2 360° Tour foi uma turnê mundial da banda de rock irlandesa U2. Lançada em suporte do álbum de estúdio do grupo, No Line on the Horizon, a turnê começou a apresentar-se em estádios em junho de 2009, finalizando em julho de 2011.",
+      "categoria": { "titulo": "U2 – 360°", "value": "dvds" },
+      "imagem": "/imagem/produtos/U2360.jpg"
+    },
+    {
+      "id": 18,
+      "titulo": "Coldplay – Live 2012",
+      "preco": 79.85,
+      "descricao": "Coldplay Live 2012 é um álbum ao vivo lançado pela banda de rock alternativo britânica Coldplay, sendo o seu primeiro filme-concerto/álbum em nove anos, desde Live 2003. Foi gravado em vários concerto durante a Mylo Xyloto Tour, no início de junho de 2011. ",
+      "categoria": { "titulo": "Coldplay – Live 2012", "value": "dvds" },
+      "imagem": "/imagem/produtos/ColdPlay.jpg"
+    },
+    {
+      "id": 19,
+      "titulo": "Michael Jackson – Live at Wembley",
+      "preco": 89.95,
+      "descricao": "É um DVD de concerto ao vivo do artista americano Michael Jackson lançado em 18 de setembro de 2012. A gravação é uma apresentação da Bad World Tour , que aconteceu de 1987 a 1989.",
+      "categoria": { "titulo": "Michael Jackson – Live at Wembley", "value": "dvds" },
+      "imagem": "/imagem/produtos/MichaelJacksonLiveWembley.jpg"
+    },
+    {
+      "id": 20,
+      "titulo": "Queen – Live at Wembley Stadium",
+      "preco": 82.99,
+      "descricao": "Pela primeira vez, este espetacular concerto realizado em 12 de julho de 1986, no estádio de Wembley, em Londres, Inglaterra, é apresentado na íntegra. O show faz parte da Magic Tour (07.06.1986 - 09.08.1986), última tour da banda Queen. O DVD é duplo. O primeiro DVD conta com o show completo e o segundo contém bônus, como documentários, entrevistas, entre outros.",
+      "categoria": { "titulo": "Queen – Live at Wembley Stadium", "value": "dvds" },
+      "imagem": "/imagem/produtos/QueenLiveWembleyStadium.jpg"
+    }
+  ],
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "value": "filmes",
+      "imagem": "/imagem/categorias/filmes.jpg"
+    },
+    {
+      "titulo": "Séries",
+      "value": "series",
+      "imagem": "/imagem/categorias/filmes.jpg"
+    },
+    {
+      "titulo": "Livros",
+      "value": "livros",
+      "imagem": "/imagem/categorias/livros.jpg"
+    },
+    {
+      "titulo": "DVDs",
+      "value": "dvds",
+      "imagem": "/imagem/categorias/dvd.jpg"
+    }
+  ],
+  "sortings": [
+    {
+      "titulo": "Preço menor p/ maior",
+      "value": "preco-asc",
+      "isDefault": true
+    },
+    {
+      "titulo": "Preço maior p/ menor",
+      "value": "preco-desc",
+      "isDefault": false
+    }
+  ],
+  "precoRanges": [
+    { "titulo": "Menor que R$10,00", "value": "0-10" },
+    { "titulo": "R$10,00 - R$50,00", "value": "10-50" },
+    { "titulo": "R$50,00 - R$100,00", "value": "50-100" },
+    { "titulo": "Maior que R$100,00", "value": "100-max" }
+  ]
+}
