@@ -1,4 +1,4 @@
-#ShopMovie-Next
+## ShopMovie-Next
 
 
 Codificação de Loja Virtual FullStack construída com Next e TypeScript consumindo API de Produtos armazenado em Json. Implementado com uso React-Redux e utilizando
