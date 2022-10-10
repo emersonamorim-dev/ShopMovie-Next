@@ -13,9 +13,9 @@ const focusedFieldByFieldPath: Record<
   FieldPath<CompleteCheckoutArgs>,
   Focused
 > = {
-  nameSurname: 'nome',
-  cardNumber: 'numero',
-  expiry: 'expira',
+  nameSurname: 'name',
+  cardNumber: 'number',
+  expiry: 'expiry',
   cvc: 'cvc',
 };
 
