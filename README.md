@@ -9,6 +9,6 @@ O Layout foi usado Tailwindcss isso facilita para estilizar cada elemento mistur
 
 Primeiro, execute o servidor de desenvolvimento:
 
-npm run dev
+## npm run dev
 ou
-yarn dev
+## yarn dev
